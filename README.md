@@ -1,6 +1,6 @@
 # SANS 2023 Holiday Hack Challenge Write-Ups
 
-### Holiday Hack Challenge 2023
+### Holiday Hack Challenge 2023 - 6 Geese a Lei'ing
 
    ![kringlecon2023](images/kringlecon2023.jpg)
 
@@ -11,7 +11,7 @@
 
    ![jj](images/jj.png)
 
-### (jj) in game, @infosecjim in Discord, @JimKirn on Twitter__
+### (jj) in game, @infosecjim in Discord, @JimKirn on Twitter (X)
 ---
 
 ## 1. [Part 1 Write-Up](docs/Holiday_Hack_2023-Part_1.pdf)
