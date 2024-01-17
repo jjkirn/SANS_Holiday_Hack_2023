@@ -18,4 +18,4 @@
 
 ## 2. [Part 2 Write-Up](docs/Holiday_Hack_2023-Part_2.pdf)
 
-## 3. [Bonus Write-up](docs/Holdiay_Hack_2023-Bonus.pdf)
+## 3. [Bonus Write-up](docs/Holiday_Hack_2023-Bonus.pdf)
